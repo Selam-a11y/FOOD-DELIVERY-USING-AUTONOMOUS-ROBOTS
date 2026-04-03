@@ -1,5 +1,8 @@
 # FOOD-DELIVERY-USING-AUTONOMOUS-ROBOTS
-This project was my thesis for my Bachelorr's and it optimizes food delivery and all the risks and isses related to human riders, by simulating the use of autonomous robots ( Starships) that would take public transportation to get from Restaurants aroun the city to the clients. 
+This project was developed as my Bachelor's thesis in Economics and Digital Firms at the University of Brescia, defended on 30 October 2024.
+The research addresses the risks and inefficiencies associated with human food delivery riders ,  including safety hazards, labour costs, and unreliable delivery times,  by simulating an alternative model in which autonomous delivery robots (inspired by Starship Technologies) use the existing public transit network to travel from restaurants across the city to customers, without a human operator. 
+## Selam Mahmud Ali
+
 # 🚇 Brescia Transit Network — Food Delivery Optimization
 
 A mixed-integer programming model for scheduling last-mile food delivery orders across the Brescia metro and tram network. The system routes orders through the public transit graph, respects vehicle capacity constraints, and maximises the number of early-run deliveries.
@@ -181,6 +184,5 @@ The following parameters can be adjusted directly in the notebook:
 
 ---
 
-## License
 
-This project is provided for academic and research purposes. It was my thesis for my bachelor's graduation in Economics and Digital Firms in the University of Brescia on 30 October 2024. 
+
